@@ -52,3 +52,13 @@ a {
     border-left: 5px solid #ffff66;
     padding-left: 10px;
 }
+
+.planet-box p {
+    margin-top: 5px;
+}
+
+.warning {
+    background-color: #ea1538;
+    padding: 10.3px;
+    text-align: center;
+}
