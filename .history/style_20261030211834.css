@@ -1,0 +1,42 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans";
+    background-color: #14191e;
+    color: white;
+    padding: 21px;
+    margin: 0;
+}
+
+.page {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    border: 3px solid yellow;
+    padding: 15px;
+    background-color: #21216b;
+    margin-bottom: 26.5px;
+}
+
+h1 {
+    color: rgb(110, 159, 251);
+    margin: 0;
+    font-size: 40px;
+}
+
+h2 {
+    color: #ffff66;
+    margin-top: 0;
+    border-bottom: 2px solid rgb(171, 225, 172);
+    padding-bottom: 5.7px;
+}
+
+h3 {
+    color: #b0d7fe;
+    margin-bottom: 9.5px;
+}
+
+a {
+    color: #99c9fa;
+}
