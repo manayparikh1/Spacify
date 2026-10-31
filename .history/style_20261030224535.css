@@ -1,0 +1,98 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans";
+    background-color: #14191e;
+    color: white;
+    padding: 21px;
+    margin: 0;
+}
+
+.page {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    border: 3px solid yellow;
+    padding: 15px;
+    background-color: #21216b;
+    margin-bottom: 26.5px;
+}
+
+h1 {
+    color: rgb(110, 159, 251);
+    margin: 0;
+    font-size: 40px;
+}
+
+h2 {
+    color: #ffff66;
+    margin-top: 0;
+    border-bottom: 2px solid rgb(171, 225, 172);
+    padding-bottom: 5.7px;
+}
+
+h3 {
+    color: #b0d7fe;
+    margin-bottom: 9.5px;
+}
+
+a {
+    color: #082440;
+}
+
+
+.contents ul {
+    columns: 2;
+}
+
+.planet-box {
+    background-color: #3d3dcc;
+    border-left: 5px solid #ffff66;
+    padding-left: 10px;
+}
+
+.planet-box p {
+    margin-top: 5px;
+}
+
+.warning {
+    background-color: #ea1538;
+    padding: 10.3px;
+    border: 5px solid rgb(131, 0, 7);
+    text-align: center;
+}
+
+table {
+    color: white;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #0478c1;
+}
+
+th,
+td {
+    border: 4px solid rgb(140, 245, 207);
+    padding: 7.5px;
+}
+
+.small {
+    font-size: 12px;
+    color: #ccccff;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 2px solid #ffff66;
+    border-bottom: 2px solid #ffff66;
+
+}
+
+a,
+a:visited {
+    color: #0ab970;
+}

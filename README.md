@@ -19,6 +19,8 @@ Extra things that I added:
 - Contents
 - Sources
 
+![Space Scene](space.png)
+
 ## Things I learned
 
 Honestly when making this I learned a lot of things myself about space. Especially about the planets because I did know that there is this much difference in a singular year and I also loved all the phases of the moon because the Moon is one of my fav things in space.
