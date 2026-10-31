@@ -38,5 +38,17 @@ h3 {
 }
 
 a {
-    color: #99c9fa;
+    color: #082440;
+}
+
+.box {}
+
+.contents ul {
+    columns: 2;
+}
+
+.planet-box {
+    background-color: #3d3dcc;
+    border-left: 5px solid #ffff66;
+    padding-left: 10px;
 }
