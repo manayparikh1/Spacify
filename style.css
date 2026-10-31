@@ -87,5 +87,12 @@ td {
 .footer {
     text-align: center;
     margin-top: 20px;
+    border-top: 2px solid #ffff66;
+    border-bottom: 2px solid #ffff66;
 
+}
+
+a,
+a:visited {
+    color: #08b76e;
 }
